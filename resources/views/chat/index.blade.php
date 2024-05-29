@@ -16,7 +16,7 @@
                     <i class="ki-outline ki-magnifier fs-3 text-gray-500 position-absolute top-50 ms-5 translate-middle-y"></i>
                     <!--end::Icon-->
                     <!--begin::Input-->
-                    <input type="text" class="form-control form-control-solid px-13" name="search" value="" placeholder="Search by username or email..." />
+                    <input type="text" class="form-control form-control-solid px-13" name="search" value="" placeholder="Search by username or email........." />
                     <!--end::Input-->
                 </form>
                 <!--end::Form-->
